@@ -15,6 +15,12 @@ My list of interests is ever-growing, and this will always be incomplete, but a 
 - Card games. I've played Yu-Gi-Oh since I was in short pants and have dabbled in at least all the major TCGs. I also love poker and variants like Omaha Hi-Lo and 7-card Stud.
 - Learning something new. I love to figure something out.
 
+## Things I've Done (mostly)
+
+Here are some projects I'm kinda proud of:
+
+- [Au](https://www.github.com/rlarson20/Au) is the 'gold' standard for AI code editing agents. Not really, but it is a small code editing agent that runs in the terminal, running off the OpenRouter API. BYOK!
+
 ## What I'm Doing
 
 I want to make tools that make learning easier for everyone.
