@@ -19,6 +19,7 @@ My list of interests is ever-growing, and this will always be incomplete, but a 
 
 Here are some projects I'm kinda proud of:
 
+- [Vimprove](https://www.github.com/rlarson20/Vimprove) is a RAG powered CLI tool, API, and Neovim plugin for talking to your Neovim documentation.
 - [Au](https://www.github.com/rlarson20/Au) is the 'gold' standard for AI code editing agents. Not really, but it is a small code editing agent that runs in the terminal, running off the OpenRouter API. BYOK!
 
 ## What I'm Doing
@@ -33,6 +34,7 @@ I'm currently trying to accomplish that through:
 
 I develop on an M2 Mac, using kitty terminal, tmux multiplexer and Neovim as my editor.
 If I'm going to write something, I'm usually going to reach for Python unless I'm trying to learn another language or I need the performance.
+
 <!--
 **rlarson20/rlarson20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
