@@ -19,6 +19,7 @@ My list of interests is ever-growing, and this will always be incomplete, but a 
 
 Here are some projects I'm kinda proud of:
 
+- [Volta](https://www.github.com/rlarson20/Volta) is a Rust-powered Machine Learning framework with a PyTorch-like API. Currently a work in progress, but able to build multi-layer perceptrons easily.
 - [Vimprove](https://www.github.com/rlarson20/Vimprove) is a RAG powered CLI tool, API, and Neovim plugin for talking to your Neovim documentation.
 - [Au](https://www.github.com/rlarson20/Au) is the 'gold' standard for AI code editing agents. Not really, but it is a small code editing agent that runs in the terminal, running off the OpenRouter API. BYOK!
 
